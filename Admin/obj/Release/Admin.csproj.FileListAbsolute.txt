@@ -1,0 +1,6 @@
+C:\Users\Olman\Downloads\Admin033\Admin\bin\Admin.dll.config
+C:\Users\Olman\Downloads\Admin033\Admin\bin\Admin.dll
+C:\Users\Olman\Downloads\Admin033\Admin\bin\Admin.pdb
+C:\Users\Olman\Downloads\Admin033\Admin\obj\Release\Admin.csprojResolveAssemblyReference.cache
+C:\Users\Olman\Downloads\Admin033\Admin\obj\Release\Admin.dll
+C:\Users\Olman\Downloads\Admin033\Admin\obj\Release\Admin.pdb

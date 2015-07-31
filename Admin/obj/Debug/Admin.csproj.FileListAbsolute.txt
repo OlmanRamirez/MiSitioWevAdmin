@@ -1,0 +1,17 @@
+c:\users\mario\documents\visual studio 2012\Projects\Admin\Admin\bin\Admin.dll
+c:\users\mario\documents\visual studio 2012\Projects\Admin\Admin\bin\Admin.pdb
+c:\users\mario\documents\visual studio 2012\Projects\Admin\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+c:\users\mario\documents\visual studio 2012\Projects\Admin\Admin\obj\Debug\Admin.dll
+c:\users\mario\documents\visual studio 2012\Projects\Admin\Admin\obj\Debug\Admin.pdb
+C:\Users\mario\Documents\Visual Studio 2012\Projects\Admin\Admin001\Admin\bin\Admin.dll
+C:\Users\mario\Documents\Visual Studio 2012\Projects\Admin\Admin001\Admin\bin\Admin.pdb
+C:\Users\mario\Documents\Visual Studio 2012\Projects\Admin\Admin001\Admin\obj\Debug\Admin.dll
+C:\Users\mario\Documents\Visual Studio 2012\Projects\Admin\Admin001\Admin\obj\Debug\Admin.pdb
+C:\Users\mario\Documents\Visual Studio 2012\Projects\Admin\Admin001\Admin\bin\eWorld.UI.dll
+C:\Users\mario\Documents\Visual Studio 2012\Projects\Admin\Admin001\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\Olman\Downloads\Admin033\Admin\bin\Admin.dll.config
+C:\Users\Olman\Downloads\Admin033\Admin\bin\Admin.dll
+C:\Users\Olman\Downloads\Admin033\Admin\bin\Admin.pdb
+C:\Users\Olman\Downloads\Admin033\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\Olman\Downloads\Admin033\Admin\obj\Debug\Admin.dll
+C:\Users\Olman\Downloads\Admin033\Admin\obj\Debug\Admin.pdb

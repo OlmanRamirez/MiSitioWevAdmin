@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\DataBase</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AddProducto.aspx">
+      <publishTime>07/29/2015 22:17:14</publishTime>
+    </File>
+    <File Include="AddVenta.aspx">
+      <publishTime>07/29/2015 22:17:14</publishTime>
+    </File>
+    <File Include="Autocomplete.aspx">
+      <publishTime>01/08/2014 22:02:35</publishTime>
+    </File>
+    <File Include="bin/Admin.dll">
+      <publishTime>07/29/2015 23:28:34</publishTime>
+    </File>
+    <File Include="bin/eWorld.UI.dll">
+      <publishTime>04/13/2009 10:22:06</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>05/14/2014 21:45:05</publishTime>
+    </File>
+    <File Include="EditCliente.aspx">
+      <publishTime>07/29/2015 22:17:14</publishTime>
+    </File>
+    <File Include="EditCompra.aspx">
+      <publishTime>07/29/2015 22:17:14</publishTime>
+    </File>
+    <File Include="EditDetalleVenta.aspx">
+      <publishTime>07/29/2015 22:17:14</publishTime>
+    </File>
+    <File Include="EditProducto.aspx">
+      <publishTime>07/29/2015 22:17:14</publishTime>
+    </File>
+    <File Include="estilo.css">
+      <publishTime>12/03/2013 19:47:23</publishTime>
+    </File>
+    <File Include="estiloindex.css">
+      <publishTime>12/03/2013 19:47:23</publishTime>
+    </File>
+    <File Include="estilos.css">
+      <publishTime>12/03/2013 19:47:23</publishTime>
+    </File>
+    <File Include="Images/1.gif">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/background.jpg">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/background_login.jpg">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/ball.gif">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/ball2.gif">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/bk_changePassword.jpg">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/bk_login.jpg">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/bk_loginCrm.jpg">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/bk_loginReporting.jpg">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/bk_webForm.jpg">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/boton.jpg">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/Calendar_scheduleHS.png">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/configuration.gif">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/crm.gif">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/crm_top.gif">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/detail.png">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/download.png">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/edit-icon.gif">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/edit.png">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/eliminar.gif">
+      <publishTime>12/18/2013 19:12:38</publishTime>
+    </File>
+    <File Include="Images/error-32x32.png">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/fond1.jpg">
+      <publishTime>06/23/2007 16:12:24</publishTime>
+    </File>
+    <File Include="Images/fondo.jpg">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Images/fondo11.jpg">
+      <publishTime>07/29/2015 21:18:27</publishTime>
+    </File>
+    <File Include="Images/fondo2.jpg">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/fondo_bk.jpg">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/imagen.jpg">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/information-32x32.png">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/Invisible.png">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/ira25.gif">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/loading.gif">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/main_crm.jpg">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/main_crm.psd">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/main_reporting.jpg">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/pregunta.JPG">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/reporting.gif">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/reporting_top.gif">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/select.PNG">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/top.jpg">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/top_bergamo2_test.jpg">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/top_fifiu.jpg">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/top_fifiu1.jpg">
+      <publishTime>07/29/2015 22:10:56</publishTime>
+    </File>
+    <File Include="Images/user.gif">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/user02.gif">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/user03.gif">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="Images/void.png">
+      <publishTime>12/03/2013 19:52:40</publishTime>
+    </File>
+    <File Include="js/EnterAsTab.js">
+      <publishTime>12/03/2013 19:52:35</publishTime>
+    </File>
+    <File Include="js/jquery-ui-1.8rc3.custom.min.js">
+      <publishTime>12/03/2013 19:52:38</publishTime>
+    </File>
+    <File Include="js/jquery.js">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="js/simpleAutoComplete.js">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="js/Util.js">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="ListCliente.aspx">
+      <publishTime>07/29/2015 22:17:14</publishTime>
+    </File>
+    <File Include="ListCompra.aspx">
+      <publishTime>07/29/2015 22:17:13</publishTime>
+    </File>
+    <File Include="ListProducto.aspx">
+      <publishTime>07/29/2015 22:17:13</publishTime>
+    </File>
+    <File Include="ListVenta.aspx">
+      <publishTime>07/29/2015 22:17:13</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>07/29/2015 22:08:07</publishTime>
+    </File>
+    <File Include="LogOut.aspx">
+      <publishTime>12/04/2013 19:46:54</publishTime>
+    </File>
+    <File Include="Main.aspx">
+      <publishTime>07/29/2015 22:13:16</publishTime>
+    </File>
+    <File Include="Styles/estilo.css">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Styles/estiloindex.css">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Styles/estilos.css">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Styles/jquery-ui-1.8rc3.custom.css">
+      <publishTime>01/08/2014 21:49:38</publishTime>
+    </File>
+    <File Include="Styles/simpleAutoComplete.css">
+      <publishTime>01/08/2014 21:49:38</publishTime>
+    </File>
+    <File Include="Styles/Site.css">
+      <publishTime>12/03/2013 19:52:39</publishTime>
+    </File>
+    <File Include="Test.aspx">
+      <publishTime>05/22/2014 19:37:45</publishTime>
+    </File>
+    <File Include="UCMessageBox.ascx">
+      <publishTime>10/30/2013 19:21:48</publishTime>
+    </File>
+    <File Include="UCNavigation.ascx">
+      <publishTime>07/29/2015 21:05:54</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/29/2015 23:28:35</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
